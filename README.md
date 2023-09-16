@@ -1,1 +1,1 @@
-<h1>For RELGO, please go to</h1>
+<h1>RELGO</h1>
