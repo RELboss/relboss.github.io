@@ -1,2 +1,1 @@
-# relboss.github.io
-<h1>Testing</h1>
+<h1>For RELGO, please go to</h1>
