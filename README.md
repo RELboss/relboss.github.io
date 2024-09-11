@@ -1,1 +1,1 @@
-<h1>For RELGO, please go to</h1>
+HI! i'm RELBOSS (aka Deadibone), a normal person who is trying to finish CS50! 😆😆😆 Working on a thing (ya a thing)
