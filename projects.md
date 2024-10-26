@@ -6,4 +6,4 @@
 ## Movie 🎥🎥🎥
 [Eggy Town 🥚](https://bit.ly/eggytown)
 ## Other stuff 📙📙📙
-[GPT4 in the terminal](https://github.com/RELboss/gpt4)
+[GPT4 in the terminal 🤖](https://github.com/RELboss/gpt4)
