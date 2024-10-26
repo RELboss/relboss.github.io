@@ -1,5 +1,5 @@
 # My Projects
-[### Home](https://relboss.github.io)
+### [Home](https://relboss.github.io)
 
 ## Minecraft Stuff ⛏️⛏️⛏️
 [A Vanilla Aether 🍦🌀🪄](https://relboss.github.io/A-Vanilla-Aether)
