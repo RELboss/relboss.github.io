@@ -11,6 +11,9 @@
 
 [Social Work GPT (Dumb Social Worker)🤖](https://relboss.github.io/socialworkgpt)
 
+## Games 🎮🎮🕹️🕹️
+[The Steven He Game](https://relboss.github.io/stevengame)
+
 ## Other stuff 📙📙📙
 [Browserly (Weird Browser)🌐](https://relboss.github.io/Browserly)
 
