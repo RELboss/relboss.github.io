@@ -13,3 +13,5 @@
 
 ## Other stuff 📙📙📙
 [Browserly (Weird Browser)🌐](https://relboss.github.io/Browserly)
+
+[Texitiy (Weird Text Editor) 📓](https://relboss.github.io/textity)
