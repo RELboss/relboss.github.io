@@ -1,20 +1,20 @@
 # My Projects
 
 ## Minecraft Stuff ⛏️⛏️⛏️
-[A Vanilla Aether 🍦🌀🪄](https://relboss.github.io/A-Vanilla-Aether)
+[A Vanilla Aether 🍦🌀🪄](https://deadibone.github.io/A-Vanilla-Aether)
 ## Movie 🎥🎥🎥
 [Eggy Town 🥚](https://bit.ly/eggytown)
 ## Artificial Intelligences 🤖🤖💻💻
-[GPT4 in the terminal 🤖](https://relboss.github.io/gpt4)
+[GPT4 in the terminal 🤖](https://deadibone.github.io/gpt4)
 
-[Chat Whatever (Dumb AI)🤖](https://relboss.github.io/chatwhatever)
+[Chat Whatever (Dumb AI)🤖](https://deadibone.github.io/chatwhatever)
 
-[Social Work GPT (Dumb Social Worker)🤖](https://relboss.github.io/socialworkgpt)
+[Social Work GPT (Dumb Social Worker)🤖](https://deadibone.github.io/socialworkgpt)
 
 ## Games 🎮🎮🕹️🕹️
-[The Steven He Game](https://relboss.github.io/stevengame)
+[The Steven He Game](https://deadibone.github.io/stevengame)
 
 ## Other stuff 📙📙📙
-[Browserly (Weird Browser)🌐](https://relboss.github.io/Browserly)
+[Browserly (Weird Browser)🌐](https://deadibone.github.io/Browserly)
 
-[Textity (Weird Text Editor) 📓](https://relboss.github.io/textity/)
+[Textity (Weird Text Editor) 📓](https://deadibone.github.io/textity/)
