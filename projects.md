@@ -3,7 +3,7 @@
 ## Minecraft Stuff ⛏️⛏️⛏️
 [A Vanilla Aether 🍦🌀🪄](https://deadibone.github.io/A-Vanilla-Aether)
 ## Movie 🎥🎥🎥
-[Eggy Town 🥚](https://shorturl.at/rzH54)
+[Eggy Town 🥚](https://tinyurl.com/eggytown)
 ## Artificial Intelligences 🤖🤖💻💻
 [GPT4 in the terminal 🤖](https://deadibone.github.io/gpt4)
 
