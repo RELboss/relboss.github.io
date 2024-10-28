@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://Deadibone.github.io/projects.html](projects.md)
+- 👨‍💻 All of my projects are available at [https://Deadibone.github.io/projects](projects.md)
 
 - 📫 How to reach me **hahaLOL@hilarious.com**
 
