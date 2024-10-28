@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Deadibone" alt="Deadibone" /></a> </p>
 
-## [All my stuff](projects.md)
+## [All my stuff](https://deadibone.github.io/projects)
 
 - 🔭 I’m currently working on [A Vanilla Aether (Minecraft Datapack)](https://Deadibone.github.io/A-Vanilla-Aether/)
 
 - 🌱 I’m currently learning **C, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://Deadibone.github.io/projects](projects.md)
+- 👨‍💻 All of my projects are available at [https://Deadibone.github.io/projects](https://deadibone.github.io/projects)
 
 - 📫 How to reach me **hahaLOL@hilarious.com**
 
