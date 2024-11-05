@@ -18,3 +18,5 @@
 [Browserly (Weird Browser)🌐](https://deadibone.github.io/Browserly)
 
 [Textity (Weird Text Editor) 📓](https://deadibone.github.io/textity/)
+
+[Deadibone OS (Weird but usable OS)](https://deadibone.github.io/DeadiboneOS/)
