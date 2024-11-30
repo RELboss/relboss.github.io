@@ -1,3 +1,5 @@
+<script src="//code.tidio.co/1gsttrztulifq3pdkab84two5bbxiqtq.js" async></script>
+
 <h1 align="center">Hi 👋, I'm Deadibone</h1>
 <h3 align="center">A teen who has finished CS50 and has serious passion in Minecraft datapacks and stuff like that</h3>
 
